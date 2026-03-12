@@ -1,5 +1,5 @@
 {
-    "name": "lso136/test",
+    "name": "lso136/v2",
     "type": "automad-package",
     "autoload": {
         "files": ["shell.php"]
